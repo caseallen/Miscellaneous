@@ -1,1 +1,15 @@
+# Assignment 1 - Exploring NNs with pytorch
 
+## Classification Analysis
+
+Binary classification using binary cross-entropy loss function on k-mean blobs.
+
+Multi-class classification, added blob centres and investigation of the effect of number of centres, data noise, dimension of the input.
+
+## Regression
+
+Prediction of numerical values using a regressor, using MSE (in essence MAE) loss function to evaluate the network and analysing the effect of changing network structure.
+
+## Investigate Study
+
+Hyperparameter tuning of the network to analyse the effects of extended training, batch size, and learning rate scheduling.
