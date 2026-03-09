@@ -1,3 +1,4 @@
+<dev>
 # Assignment 1 - Exploring NNs with pytorch
 
 ## Classification Analysis
@@ -13,3 +14,4 @@ Prediction of numerical values using a regressor, using MSE (in essence MAE) los
 ## Investigate Study
 
 Hyperparameter tuning of the network to analyse the effects of extended training, batch size, and learning rate scheduling.
+<dev>
